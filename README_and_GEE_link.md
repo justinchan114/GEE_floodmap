@@ -5,7 +5,7 @@ This is a flood mapping project using Google Earth Engine.
 
 Google Earth Engine has datasets of satellite images (https://developers.google.com/earth-engine/datasets/), in this flood mapping project, images from Sentinel-1 and Sentinel-2 were used (https://developers.google.com/earth-engine/datasets/catalog/sentinel) for analyzing the flooding extent of a severe rainstorm event.
 
-Codes are in https://code.earthengine.google.com/3ab3edfee326d3509a9333b5b554b30f?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects
+Codes are in https://code.earthengine.google.com/9527c80f7d1f69dbc389e1166578b26c?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects
 
 __Event of study__
 
