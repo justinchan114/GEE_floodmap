@@ -33,4 +33,4 @@ The process is relatively simple in this preliminary study:
 7. Mask out areas with:
   a. Permanent water
   b. Slope of 1:25 (4%) or above
-8. Add layer of flooded area
+8. Add layer of flooded area 
