@@ -1,10 +1,12 @@
 # gee_floodmap
-Introduction
+__Introduction__
 
-This is a flood mapping project with the aid of Google Earth Engine.
-Google Earth Engine has datasets with satellitte images (https://developers.google.com/earth-engine/datasets/), in this flood mapping project, images from Sentinel-1 and Sentinel-2 were used (https://developers.google.com/earth-engine/datasets/catalog/sentinel).
+This is a flood mapping project using Google Earth Engine.
 
-The Sentinel-1 mission provides data from a dual-polarization C-band Synthetic Aperture Radar (SAR) instrument. SAR instruments are capable of acquiring meaningful data in all weather conditions (even clouds) during daytime and nighttime. Hence this is particular useful for flooding events, since clouds are often presence.
+Google Earth Engine has datasets of satellitte images (https://developers.google.com/earth-engine/datasets/), in this flood mapping project, images from Sentinel-1 and Sentinel-2 were used (https://developers.google.com/earth-engine/datasets/catalog/sentinel) for analyzing the flooding extent of a severe rainstorm event.
+
+__Methodolody__
+The Sentinel-1 mission provides data from a dual-polarization C-band Synthetic Aperture Radar (SAR) instrument. SAR instruments are capable of acquiring meaningful data in all weather conditions (even clouds) during daytime and nighttime. Since open water is characterized by low backscatter due to specular reflection, Hence this is particular useful for flooding events, since clouds are often presence.
 
 The process:
 1. Define the boundary of study
