@@ -30,7 +30,7 @@ The process is relatively simple in this preliminary study:
   b. Sentinel-2 RGB satellite image, in early July 2021 with limited clouds
 5. Apply speckle filter on collected Sentinel-1 datasets 
 6. Compare pre and post-event images, by calculating the difference in backscatter. Two methods were used for comparison, subtraction and division, and subtration with thresold of 3 demonstrated better mapping of flooded area in area of study.
-7. Mask out areas with:
-  a. Permanent water
+7. Mask out areas with:</br>
+  a. Permanent water</br>
   b. Slope of 1:25 (4%) or above
 8. Add layer of flooded area 
