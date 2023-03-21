@@ -1,4 +1,4 @@
-# gee_floodmap
+# Flood Mapping with Google Earth Engine
 __Introduction__
 
 This is a flood mapping project using Google Earth Engine.
