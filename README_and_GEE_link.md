@@ -1,5 +1,5 @@
 # Flood Mapping with Google Earth Engine
-__Introduction__
+## Introduction
 
 This is a flood mapping project using Google Earth Engine.
 
@@ -7,20 +7,20 @@ Google Earth Engine has datasets of satellite images (https://developers.google.
 
 Codes are in https://code.earthengine.google.com/90f6cbd2b583969a5e466b308f627046?accept_repo=users%2Fujavalgandhi%2FEnd-to-End-Projects
 
-__Event of study__
+## Event of study
 
 In mid-Nov 2021, atmospheric river brought heavy rainfall to southern BC, Canada.
 In Hope, British Columbia, 277.5 millimetres (10.93 in) of rain fell from November 14 to 15, 2021; nearing the two-day record of 303.6 millimetres (11.95 in) set from November 9 to 10 1990.
 This caused servere flooding in many parts of BC, including Abbotsford and metro Vancouver. 
 This is a preliminary study of flood map near Abbortsford during the storm.
 
-__Methodolody__
+## Methodolody
 
 The Sentinel-1 mission provides data from a dual-polarization C-band Synthetic Aperture Radar (SAR) instrument. SAR instruments are capable of acquiring meaningful data in all weather conditions (even clouds) during daytime and nighttime, which is particular useful for analyzing flooding events. We will gather satellite image before and after the flood, and make comparison. Since open water is characterized by low backscatter due to specular reflection, we can measure the difference between pre and post rainfall event, to see if certain area have been flooded. 
 
 On the other hand, Sentinel-2 could provide a clear rgb satellite image, to facilitate the study of original landuse.
 
-__The process__
+### The process
 
 The process is relatively simple in this preliminary study:
 1. Define the boundary of study
